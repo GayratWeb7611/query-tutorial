@@ -1,19 +1,161 @@
 {
-    "superheroes":[
-        {
-            "id": 1,
-            "name": "Batman",
-            "alteEgo": "Bruce Wayne"
-        },
-        {
-            "id": 2,
-            "name": "Superman",
-            "alteEgo": "Clark Kent"
-        },
-        {
-            "id": 3,
-            "name": "Wonder Woman",
-            "alteEgo": "Prencess Diana"
-        }
-    ]
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alteEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alteEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alteEgo": "Prencess Diana"
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 4
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 5
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 6
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 7
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 8
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 9
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 10
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 11
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 12
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 13
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 14
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 15
+    },
+    {
+      "alterEgo": "dslfk",
+      "name": "lskdafj",
+      "id": 16
+    },
+    {
+      "alterEgo": "dslfkasdas",
+      "name": "lskdafj",
+      "id": 17
+    },
+    {
+      "alterEgo": "dslfkasdas",
+      "name": "lskdafjmlmlmllll",
+      "id": 18
+    },
+    {
+      "alterEgo": "post post",
+      "name": "mkm",
+      "id": 19
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Renat"
+    },
+    {
+      "id": 2,
+      "name": "Joe Tribbiyanni"
+    },
+    {
+      "id": 3,
+      "name": "Rachel green"
+    }
+  ],
+  "users": [
+    {
+      "id": "gsattorov0102@mail.ru",
+      "channelId": "codevalution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevalution",
+      "courses": [
+        "react, vue ,angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "green"
+    },
+    {
+      "id": 2,
+      "label": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "black"
+    },
+    {
+      "id": 4,
+      "label": "white"
+    },
+    {
+      "id": 5,
+      "label": "red"
+    },
+    {
+      "id": 6,
+      "label": "orange"
+    },
+    {
+      "id": 7,
+      "label": "blue"
+    },
+    {
+      "id": 8,
+      "label": "success"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 function SuperHeroesPage() {
   return (
-    <div>RQ SuperHeroesPage</div>
+    <div>SuperHeroesPage</div>
   )
 }
 
